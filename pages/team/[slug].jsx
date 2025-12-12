@@ -1,9 +1,9 @@
-import TeamPage from "@/components/team/TeamPage";
+import TeamPageNew from "@/components/team/TeamPageNew";
 import prisma from "@/lib/prisma";
 import Head from "next/head";
 import React from "react";
 
-const Team = ({ teamData }) => {
+const Team = ({ teamData, teamSlug }) => {
   return (
     <>
       <Head>
@@ -23,7 +23,7 @@ const Team = ({ teamData }) => {
         />
         <meta property="og:image" content={"/images/gdsc_fallback.png"} />
       </Head>
-      <TeamPage teamData={teamData} />
+      <TeamPageNew teamData={teamData} teamSlug={teamSlug} />
     </>
   );
 };
@@ -61,7 +61,8 @@ export const getStaticProps = async (ctx) => {
 
     return {
       props: {
-        teamData
+        teamData,
+        teamSlug: slug
       }
     };
   } else {
