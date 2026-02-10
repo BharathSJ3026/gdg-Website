@@ -36,13 +36,15 @@ const TeamPage = ({ teamData, teamSlug }) => {
       <Typography color={theme.colors.brandBlue} variant="h1">
         {teamData.name}
       </Typography>
-      <LeadContainer>
-        <MemberCard
-          member={teamData.lead}
-          avatarBorderColor={theme.colors.brandBlue}
-          avatarSize={isMobile ? "lg" : "xl"}
-        />
-      </LeadContainer>
+      {teamData.lead && (
+        <LeadContainer>
+          <MemberCard
+            member={teamData.lead}
+            avatarBorderColor={theme.colors.brandBlue}
+            avatarSize={isMobile ? "lg" : "xl"}
+          />
+        </LeadContainer>
+      )}
       <TeamContainer>
         <Typography variant="h2">Core Team</Typography>
         <TeamMembersWrapper>

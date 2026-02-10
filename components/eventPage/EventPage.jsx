@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import parse from "html-react-parser";
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc";
 import timezone from "dayjs/plugin/timezone";
@@ -36,6 +35,7 @@ import {
 import Typography from "../display/typography/Typography";
 import Avatar from "../avatar/Avatar";
 import truncateText from "@/utils/truncate";
+import stripHtml from "@/utils/stripHtml";
 import capitalize from "@/utils/capitalize";
 import isoToDate from "@/utils/isoToDate";
 
@@ -85,7 +85,7 @@ function EventPage({ eventData }) {
           <HorizontalLine />
           <SpeakerRole>
             <Typography variant="body">
-              {truncateText(parse(speaker.description), limit)}
+              {truncateText(stripHtml(speaker.description ?? ""), limit)}
             </Typography>
           </SpeakerRole>
         </SpeakerCard>
@@ -115,9 +115,11 @@ function EventPage({ eventData }) {
               <ContentContainer>
                 <Typography variant="h1">{eventData.title}</Typography>
                 <EventInfo>
-                  <Typography variant="body">
-                    {parse(eventData.description)}
-                  </Typography>
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: eventData.description ?? "",
+                    }}
+                  />
                 </EventInfo>
               </ContentContainer>
               {eventData.schedule != undefined && (
