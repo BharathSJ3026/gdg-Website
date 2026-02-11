@@ -90,6 +90,10 @@ export const ArticleContentContainer = styled.div`
     width: inherit;
     overflow-wrap: break-word;
     overflow: hidden;
+    font-weight: 400;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    line-height: 32px;
   }
 `;
 

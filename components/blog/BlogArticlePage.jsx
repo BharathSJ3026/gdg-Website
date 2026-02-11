@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import parse from "html-react-parser";
 
 import {
   Article,
@@ -54,9 +53,10 @@ const BlogArticlePage = ({ article }) => {
       </ArticleTitleContainer>
       <HorizontalLine />
       <ArticleContentContainer>
-        <Typography variant="bodyLarge" className="blogContent">
-          {parse(article.content)}
-        </Typography>
+        <div
+          className="blogContent"
+          dangerouslySetInnerHTML={{ __html: article.content ?? "" }}
+        />
         <HorizontalLine />
       </ArticleContentContainer>
       <ArticleTagsContainer>

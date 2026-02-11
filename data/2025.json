@@ -1,0 +1,498 @@
+{
+  "year": "2025",
+  "title": "Team 2025",
+  "members": [
+    {
+      "name": "Gurbashish Sena Nayak",
+      "role": "Organizer",
+      "position": "Organizer",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/gurbashish.organizer-min.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/gurbashish-sena-nayak",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Bharath",
+      "role": "Tech Lead",
+      "position": "Tech Lead",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/bharath.tech.lead.jpg",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/bharathsj3026/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Baswakiran",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/Baswakiran.tech.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/baswakiran-hattyal-1485a9318/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Asfan",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/asfan.tech.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/asfan-firdaus-3800b5359/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Harish",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/harish.tech.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/harish-naik-245b8b332/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Nishikant",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/nishikant.tech.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/nishikant-V-1170b227b/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Prajin",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/prajin.tech.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/prajin-gn/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Mussarat",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/musarrat.tech.members.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/mussarrat-kittur-8b6aa3295/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Pranav",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/pranav.tech.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/pranav-shetty-a66336302/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Rajoshree",
+      "role": "Tech Member",
+      "position": "Tech Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/rajoshree.tech.member.png ",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/rajoshree-manna-ab69613a2",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Shabista",
+      "role": "ML and Android Lead",
+      "position": "ML and Android Lead",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/shabista.ml.lead.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/shabista-sehar/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Kunal",
+      "role": "ML and Android Member",
+      "position": "ML and Android Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/kunal.ml.member.jpg",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/kunal-natesh-450049278",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Kausthub",
+      "role": "ML and Android Member",
+      "position": "ML and Android Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/kausthub.ml.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/kausthub-p-12a314340",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Shubham",
+      "role": "ML and Android Member",
+      "position": "ML and Android Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/shubham.ml.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/shubham-sharma-b598912a7/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Manjunath",
+      "role": "ML and Android Member",
+      "position": "ML and Android Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/manjunath.ml.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/manjunath-s-arkachar-14642034b",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Thanushree",
+      "role": "ML and Android Member",
+      "position": "ML and Android Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/thanushree.ml.member.jpg",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/e-thanusree-%E2%80%8E-664970346/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Satyam Samanta",
+      "role": "Design Lead",
+      "position": "Design Lead",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/satyam.design.lead.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/satyam-samanta-a4a243293/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Shalini Kannan",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/shalini.design.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/shalini-kannan-536221302/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Suchi",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/suchi.design.member.jpg",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/p-a-suchi-0a6b5233b",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Harshath",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/harshath.design.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/harshath-r-2a5974301",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Dhanvish",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/dhanvish.design.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/sj-dhanvish",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Dhanush",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/dhanush.design.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/dhanushgouda",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Harshith",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/harshith.design.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/harshith-g-reddy-3b7549353",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Sachika",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/sachika.design.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/sachika-s-19318a324",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Rishitha",
+      "role": "Design Member",
+      "position": "Design Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/rishitha.design.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/pasyavula-rishitha-b9a08b389/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "MD Nadeem",
+      "role": "Content Lead",
+      "position": "Content Lead",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/nadeem.content.lead.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/md-nadeem-1b065a305/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Gia",
+      "role": "Content Member",
+      "position": "Content Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/gia.content.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/gia-victor-40493032a",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Dhanush",
+      "role": "Content Member",
+      "position": "Content Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/dhanush.conotent.member.png",
+      "links": {
+        "linkedin": "",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Mukesh",
+      "role": "Content Member",
+      "position": "Content Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/mukesh.content.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/mukesh-madawat-226205291/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Khanak",
+      "role": "Content Member",
+      "position": "Content Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/khanak.content.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/khanak-juttiyavar-b4a5b6293",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Massil",
+      "role": "Community Lead",
+      "position": "Community Lead",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/massil.community.lead.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/massil-nissar-060244356",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Sachin",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/sachin.community.member.png",
+      "links": {
+        "linkedin": "",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Harshith",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/harshith.community.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/harshith-g-reddy-3b7549353/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Shreya",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/shreya.community.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/shreya-r-091990263",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Navya",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/navya.community.mem.png",
+      "links": {
+        "linkedin": "",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Shashikant",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/shashikant.community.member.png",
+      "links": {
+        "linkedin": "",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Shubhana",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/shubana.community.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/shubhana-n-reddy-307870358",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Shreeja",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/shreeja.community.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/shreeja-k6606",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Tarun",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/tarun.community.member.png",
+      "links": {
+        "linkedin": "",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Dinesh",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/dinesh.community.member.png",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/dinesh-kumar-patra-8a5483358/",
+        "email": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Adrin",
+      "role": "Community Member",
+      "position": "Community Member",
+      "bio": "",
+      "avatar": "https://rkxyhsskayiwaywhnwfg.supabase.co/storage/v1/object/public/gallery-images/Team_2025/adrin.community.member.png",
+      "links": {
+        "linkedin": "",
+        "email": "",
+        "twitter": ""
+      }
+    }
+  ]
+}
